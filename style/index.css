@@ -1,0 +1,66 @@
+body,
+html {
+    height: 100%;
+
+}
+
+.para_image1 {
+    background-image: url(../image/seyiram-kweku-cfLJCNExsPo-unsplash.jpeg);
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.para_image2 {
+    background-color: rgb(240, 205, 6);
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+
+.para_image3 {
+    background-color: white;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+
+.para_image4 {
+    background-image: url(/image/owen-oj-n8is7rTXrbE-unsplash.jpeg);
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.over_card {
+    position: absolute;
+    top: 0;
+}
+
+* {
+    cursor: url(/image/cursor.cur),
+        auto;
+
+}
+
+.crop {
+    width: 20rem;
+    /* width of container */
+    height: 20rem;
+    /* height of container */
+    object-fit: cover;
+}
