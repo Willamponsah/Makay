@@ -37,7 +37,7 @@ html {
 
 
 .para_image4 {
-    background-image: url(/image/owen-oj-n8is7rTXrbE-unsplash.jpeg);
+    background-image: url(../image/owen-oj-n8is7rTXrbE-unsplash.jpeg);
     background-size: cover;
     position: relative;
     background-position: center;
@@ -52,7 +52,7 @@ html {
 }
 
 * {
-    cursor: url(/image/cursor.cur),
+    cursor: url(../image/cursor.cur),
         auto;
 
 }
@@ -64,3 +64,4 @@ html {
     /* height of container */
     object-fit: cover;
 }
+
