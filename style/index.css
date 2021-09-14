@@ -65,7 +65,7 @@ html {
 }
 
 * {
-    cursor: url(/image/cursor2.cur),
+    cursor: url(../image/cursor2.cur),
         auto;
 
 }
